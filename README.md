@@ -4,24 +4,24 @@
   </a>
 </h1>
 
-<h3 align="center">👋 Olá! Eu sou o Gustavo Assoni</h3>
+<h3 align="center">👋 Olá! Eu sou o <strong>Gustavo Assoni</strong></h3>
 <h4 align="center">💻 Desenvolvedor em formação | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (USCS)</h4>
 
-###
+---
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJmanhrZWxkZHloeGRxcmJmMmg0aTl5Yzkxd2ZsZXF1OWFwdjRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" />
 
-###
+---
 
-### 🚀 Sobre mim
-- 🌱 Atualmente estudando **Java, APIs REST e Programação Orientada a Objetos**
-- 💡 Interessado em **backend, segurança e boas práticas de desenvolvimento**
-- 🎯 Buscando **uma oportunidade de estágio** para aplicar e expandir meus conhecimentos
+###  Sobre mim
+- 🌱 Atualmente estudando **Java, APIs REST e Programação Orientada a Objetos**  
+- 💡 Interessado em **backend, segurança e boas práticas de desenvolvimento**  
+- 🎯 Buscando **uma oportunidade de estágio** para aplicar e expandir meus conhecimentos  
 - 🧠 "Sempre aprendendo, sempre explorando"
 
-###
+---
 
-###  STACKS
+###  Stacks
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -38,23 +38,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
-###
+---
 
-### Connect with me!
+###  Connect with me!
 <div align="center">
   <a href="https://www.instagram.com/gst.assoni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
   <a href="mailto:gustavoassoni@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/gustavoassoni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GustavoAssoni/GustavoAssoni/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/GustavoAssoni/GustavoAssoni/blob/output/snake.svg" alt="Snake animation" />
 </div>
