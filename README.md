@@ -11,7 +11,6 @@
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJmanhrZWxkZHloeGRxcmJmMmg0aTl5Yzkxd2ZsZXF1OWFwdjRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" />
 
----
 
 ###  Sobre mim
 - 🌱 Atualmente estudando **Java, APIs REST e Programação Orientada a Objetos**  
