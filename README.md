@@ -57,3 +57,25 @@
 <div align="center">
   <img src="https://github.com/GustavoAssoni/GustavoAssoni/blob/output/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+###  Stats
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoAssoni&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAssoni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
