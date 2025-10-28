@@ -4,12 +4,8 @@
   </a>
 </h1>
 
-<h3 align="left">👋 Hi! I’m Gustavo, 24 years old</h3>
-<h3 align="left">🎓 Undergraduate student in Systems Analysis and Development at USCS</h3>
-<h3 align="left">💼 Looking for an internship opportunity to grow as a developer</h3>
-<h3 align="left">💡 Always learning, always exploring</h3>
-
-
+<h3 align="center">👋 Olá! Eu sou o Gustavo Assoni</h3>
+<h4 align="center">💻 Desenvolvedor em formação | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (USCS)</h4>
 
 ###
 
@@ -17,6 +13,15 @@
 
 ###
 
+### 🚀 Sobre mim
+- 🌱 Atualmente estudando **Java, APIs REST e Programação Orientada a Objetos**
+- 💡 Interessado em **backend, segurança e boas práticas de desenvolvimento**
+- 🎯 Buscando **uma oportunidade de estágio** para aplicar e expandir meus conhecimentos
+- 🧠 "Sempre aprendendo, sempre explorando"
+
+###
+
+### 🛠️ Tecnologias que estou aprendendo
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -35,6 +40,7 @@
 
 ###
 
+### 🌐 Onde me encontrar
 <div align="center">
   <a href="https://www.instagram.com/gst.assoni" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -45,5 +51,10 @@
   <a href="https://www.linkedin.com/in/gustavoassoni" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/GustavoAssoni/GustavoAssoni/output/snake.svg" alt="Snake animation" />
 </div>
