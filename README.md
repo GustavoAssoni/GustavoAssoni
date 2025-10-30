@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
+![Image](https://github.com/user-attachments/assets/fff932e6-a341-4022-821e-a1247e4460cf)
+
 ---
 
 ###  Connect with me!
