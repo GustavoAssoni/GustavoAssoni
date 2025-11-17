@@ -13,9 +13,9 @@
 
 
 ###  Sobre mim
-- 🌱 Atualmente estudando **Java, APIs REST e Programação Orientada a Objetos**  
-- 💡 Interessado em **backend, segurança e boas práticas de desenvolvimento**  
-- 🎯 Buscando **uma oportunidade de estágio** para aplicar e expandir meus conhecimentos  
+- 🎯 Buscando **uma oportunidade de estágio** para aplicar e expandir meus conhecimentos
+- 🌱 Atualmente estudando **Java, APIs REST, OOP e SQL**  
+- 💡 Interessado em **backend, Banco de dados e boas práticas de desenvolvimento**  
 - 🧠 "Sempre aprendendo, sempre explorando"
 
 ---
